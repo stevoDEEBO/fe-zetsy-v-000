@@ -64,5 +64,6 @@ footer {
 
 a:link {
   color: #92AFA6
+  text-decoration: none;
 }
 /* Write all remaining styles here */
