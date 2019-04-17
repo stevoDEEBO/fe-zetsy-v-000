@@ -31,6 +31,10 @@ h1 {
 	border-bottom: 1px solid #ccc;
 }
 
+h1:hover {
+  color: #92AFA6;
+}
+
 h2 {
 	color: #6B807A;
 	font-size: 2em;
@@ -60,6 +64,16 @@ footer {
   font-size: .8em;
   text-align: right;
   color: #555;
+}
+
+a:link {
+  color: #92AFA6
+  text-decoration: none;
+}
+
+a:link {
+  color: #92AFA6
+  text-decoration: none;
 }
 
 a:link {
