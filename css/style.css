@@ -18,7 +18,7 @@ body {
 	padding: 0 45px 20px;
 }
 
-h1{
+h1 {
 	color: #555;
 	font-size: 5em;
 	font-family: 'Baskerville', serif;
@@ -28,25 +28,30 @@ h1{
 	border-bottom: 1px solid #ccc;
 }
 
-h2{
+h2 {
 	color: #555;
 	font-size: 2em;
 }
 
-p{
+p {
 	color: #555;
 	margin: 0 0 20px 0;
 }
 
-necklace img{
+necklace img {
 	/*border: 5px; rgb(152,173,166)*/
   padding: 5px; rgb(152,173,166)
 	solid;
 }
 
-#press img{
+#press img {
 	border: 5px #ccc solid;
   padding: 1px;
+}
+
+#tm {
+  font-size: .5em;
+  
 }
 
 /* Write all remaining styles here */
